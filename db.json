@@ -1,12 +1,5 @@
 {
-    "Users":[
-             {"name":"John","email":"j@j.com","password":"123456","role":"admin"},
-             {"name":"Jane","email":"j@j.com","password":"123456","role":"user"},
-             {}
-             ],
-    "Products":[{"title":"TV","price":100,"category":"Electronics"},
-                {"title":"Laptop","price":200,"category":"Electronics"},
-                {"title":"Mobile","price":300,"category":"Electronics"},
-                {"title":"Phone","price":10000,"category":"Electronics"}]
+   "users":[],
+   "recipes":[]
 }
 
