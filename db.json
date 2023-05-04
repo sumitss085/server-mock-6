@@ -4,6 +4,191 @@
    "Movies":[],
    "userData":[],
    "Data":[],
-   "product":[]
+   "product": [
+     {
+       "id": 1,
+       "title": "Women's Floral Print Dress",
+       "description": "A beautiful dress with a floral print design",
+       "price": 39.99,
+       "gender": "female",
+       "category": "dresses"
+     },
+     {
+       "id": 2,
+       "title": "Women's High Waisted Jeans",
+       "description": "A comfortable pair of jeans with a high waistline",
+       "price": 49.99,
+       "gender": "female",
+       "category": "jeans"
+     },
+     {
+       "id": 3,
+       "title": "Women's Classic Trousers",
+       "description": "A classic pair of trousers with a straight leg fit",
+       "price": 59.99,
+       "gender": "female",
+       "category": "trousers"
+     },
+     {
+       "id": 4,
+       "title": "Women's Formal Suit",
+       "description": "A formal suit with a blazer and trousers",
+       "price": 139.99,
+       "gender": "female",
+       "category": "suits"
+     },
+     {
+       "id": 5,
+       "title": "Women's Lehenga Choli",
+       "description": "A traditional Indian outfit with a long skirt and a blouse",
+       "price": 99.99,
+       "gender": "female",
+       "category": "lehenga"
+     },
+     {
+       "id": 6,
+       "title": "Women's Leather Jacket",
+       "description": "A stylish leather jacket with a zippered front",
+       "price": 89.99,
+       "gender": "female",
+       "category": "jackets"
+     },
+     {
+       "id": 7,
+       "title": "Women's Maxi Dress",
+       "description": "A long flowing dress with a fitted waist",
+       "price": 79.99,
+       "gender": "female",
+       "category": "dresses"
+     },
+     {
+       "id": 8,
+       "title": "Women's Skinny Jeans",
+       "description": "A trendy pair of skinny jeans with a faded wash",
+       "price": 69.99,
+       "gender": "female",
+       "category": "jeans"
+     },
+     {
+       "id": 9,
+       "title": "Women's High Waisted Trousers",
+       "description": "A comfortable pair of high waisted trousers",
+       "price": 49.99,
+       "gender": "female",
+       "category": "trousers"
+     },
+     {
+       "id": 10,
+       "title": "Women's Blouse",
+       "description": "A flowy blouse with a colorful print",
+       "price": 29.99,
+       "gender": "female",
+       "category": "suits"
+     },
+     {
+       "id": 11,
+       "title": "Women's Saree",
+       "description": "A traditional Indian outfit with a draped saree and blouse",
+       "price": 149.99,
+       "gender": "female",
+       "category": "lehenga"
+     },
+     {
+       "id": 12,
+       "title": "Women's Denim Jacket",
+       "description": "A classic denim jacket with a cropped fit",
+       "price": 59.99,
+       "gender": "female",
+       "category": "lehenga"
+     },
+    
+     {
+       "id": 13,
+       "title": "Men's Striped Shirt",
+       "description": "A classic button-up shirt with a striped pattern",
+       "price": 29.99,
+       "gender": "male",
+       "category": "shirts"
+     },
+     {
+       "id": 14,
+       "title": "Men's Slim Fit Jeans",
+       "description": "A pair of slim fit jeans with a faded wash",
+       "price": 59.99,
+       "gender": "male",
+       "category": "jeans"
+     },
+     {
+       "id": 15,
+       "title": "Men's Chinos",
+       "description": "A versatile pair of chinos in a neutral color",
+       "price": 49.99,
+       "gender": "male",
+       "category": "trousers"
+     },
+     {
+       "id": 16,
+       "title": "Men's Formal Suit",
+       "description": "A formal suit with a blazer and trousers",
+       "price": 199.99,
+       "gender": "male",
+       "category": "suits"
+     },
+     {
+       "id": 17,
+       "title": "Men's Kurta Pajama",
+       "description": "A traditional Indian outfit with a long shirt and pants",
+       "price": 89.99,
+       "gender": "male",
+       "category": "suits"
+     },
+     {
+       "id": 18,
+       "title": "Men's Leather Jacket",
+       "description": "A stylish leather jacket with a zippered front",
+       "price": 149.99,
+       "gender": "male",
+       "category": "jackets"
+     },
+     {
+       "id": 19,
+       "title": "Men's Polo Shirt",
+       "description": "A classic polo shirt with a simple design",
+       "price": 19.99,
+       "gender": "male",
+       "category": "shirts"
+     },
+     {
+       "id": 20,
+       "title": "Men's Straight Leg Jeans",
+       "description": "A pair of classic straight leg jeans in a dark wash",
+       "price": 69.99,
+       "gender": "male",
+       "category": "jeans"
+     },
+     {
+       "id": 21,
+       "title": "Men's Cargo Shorts",
+       "description": "A pair of comfortable shorts with cargo pockets",
+       "price": 29.99,
+       "gender": "male",
+       "category": "shorts"
+     },
+     {
+       "id": 22,
+       "title": "Men's Blazer",
+       "description": "A stylish blazer in a neutral color",
+       "price": 99.99,
+       "gender": "male",
+       "category": "suits"
+     },
+     {
+       "id": 23,
+       "title": "Men's Nehru Jacket",
+       "description": "A traditional Indian jacket with a mandarin collar",
+       "price": 79.99,
+       "gender": "male",
+       "category": "jackets"
+     }
+   ]
 }
-
